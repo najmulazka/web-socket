@@ -1,0 +1,14 @@
+POST http://localhost:3000/notification
+Content-Type: application/json
+
+{
+	"userId": 2,	
+	"title": "Grab",
+	"body": "Ini dari grab"
+}
+
+###
+GET http://localhost:3000/notification
+
+###
+GET  http://localhost:3000/notification/2/mark-is-read

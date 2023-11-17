@@ -1,0 +1,12 @@
+{
+    "notificationId": 2,
+    "notifications": [
+        {
+            "id": 1,
+            "userId": 2,
+            "title": "Grab",
+            "body": "Ini dari grab",
+            "isRead": false
+        }
+    ]
+}
